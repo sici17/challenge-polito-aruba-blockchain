@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
